@@ -15,5 +15,7 @@ The power supply has  an open concept and can be configured to taste. It should 
 parts are purchased.
 
 <img src="https://github.com/svenpetersen1965/C64-PSU-Combi/blob/master/Rev.%200/pictures/4059_-_wired_PSU.JPG" width="300" alt="Finished!">
+C64 PSU Combi in a Hammond 1411P case
 
 <img src="https://github.com/svenpetersen1965/C64-PSU-Combi/blob/master/Rev.%200/pictures/2512_-_finished_PSU.JPG" width="300" alt="Finished!">
+C64 PSU Combi in a Teko 384 case

@@ -11,6 +11,8 @@ enough.
 This build is for the more experienced, since power supplies can be hazzardous and the involved 
 mains voltage is potentially lethal.
 
+Find some info on the required cable making <a href="http://tech.guitarsite.de/cable_making.html">on my website</a>
+
 The power supply has  an open concept and can be configured to taste. It should be planned before 
 parts are purchased.
 

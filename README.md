@@ -6,7 +6,7 @@ module, one of the 1541-II connectors can be replaced with an Amiga connection, 
 -12V. This option has not been tested, since I don't have an Amiga. The PSU combi should be strong 
 enough.
 
-<img src="https://github.com/svenpetersen1965/C64-PSU-Combi/blob/master/Rev.%200/inkscape/CombiPSU_wiring.png" width="500" alt="Block Diagram">
+<img src="https://github.com/svenpetersen1965/C64-PSU-Combi/blob/master/Rev.%202/pictures/CombiPSU_wiring_Rev2_wbgnd.png" width="500" alt="Block Diagram">
 
 This build is for the more experienced, since power supplies can be hazzardous and the involved 
 mains voltage is potentially lethal.
